@@ -1,6 +1,6 @@
 # Excel-Sales-Analysis
 
-- Case study background: 
+Case study background: 
 Solarify is a well-established manufacturer of solar panels that sells its products in several countries around the world. Recently, their salespeople have started complaining that they are not paid enough for their work. In some cases, this has led to high-performing salespeople leaving the company. Solarify is concerned that this dispute is starting to affect the company’s revenues. 
 
 As Solarify has grown, different regions within the company have set different compensation policies, involving different mixes of salary, commission, and bonuses. The company wants to know how these differences affect performance in different countries. They also want to know if a unified compensation scheme can help optimize performance by improving morale.
